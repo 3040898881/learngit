@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 close Fast forward.
 Fast forward.
+bug fix.
